@@ -21,3 +21,10 @@ git commit -m 'nombre del commint'
 
 //git checkout
 git checkout 'nombre del documentos'
+
+
+//git ignore 
+
+/crear fichero ignore
+
+touch .gitignore
