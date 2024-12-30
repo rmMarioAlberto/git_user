@@ -1,0 +1,13 @@
+
+//configurar usuario
+git config --global user.name 'nombre'
+git config --global user.mail 'correo'
+
+//inicalizar git en una carpeta
+git init
+
+//cambiar nombre del branch 
+git branch -m 'nombre'
+
+//ver documentos
+git status
