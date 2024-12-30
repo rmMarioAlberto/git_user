@@ -11,3 +11,9 @@ git branch -m 'nombre'
 
 //ver documentos
 git status
+
+//agregar documentos para guardar 
+git add 'nombre'
+
+//guardar el commint
+git commit -m 'nombre del commint'
