@@ -17,3 +17,7 @@ git add 'nombre'
 
 //guardar el commint
 git commit -m 'nombre del commint'
+
+
+//git checkout
+git checkout 'nombre del documentos'
