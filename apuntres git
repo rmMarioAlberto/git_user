@@ -28,3 +28,21 @@ git checkout 'nombre del documentos'
 /crear fichero ignore
 
 touch .gitignore
+
+
+//git tree
+
+git config --global alias.tree "log --graph --decorate --all --oneline"
+
+//mover entre las version con el git checkout
+
+git checkout 'numero de la version a la que se quere mover' //este codigo se peude ver en el tree
+
+
+//comando para conectar con git, aunque este comando se da en github al momento de crear el repositorio
+
+git remote add origin https://github.com/rmMarioAlberto/git_user.git //este el nombre del usuario y el nombre del repositorio de github
+
+//comando para subir las partes del proyecto ya creadas
+
+git push origin main
