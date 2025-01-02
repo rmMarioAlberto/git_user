@@ -54,3 +54,5 @@ git config pull.rebase false  (para setear la forma en la que se revisan los doc
 git fetch (sirve para descargar todas las cosas de github si ponerlas en realidad, solo es la descarga)
 
 git pull origin main (para poner todas las cosas nuevas)
+
+git push 
