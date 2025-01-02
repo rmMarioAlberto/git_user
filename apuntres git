@@ -46,3 +46,11 @@ git remote add origin https://github.com/rmMarioAlberto/git_user.git //este el n
 //comando para subir las partes del proyecto ya creadas
 
 git push origin main
+
+//comandos para traer cosas del repositorio de github 
+
+git config pull.rebase false  (para setear la forma en la que se revisan los documentos existentes)
+
+git fetch (sirve para descargar todas las cosas de github si ponerlas en realidad, solo es la descarga)
+
+git pull origin main (para poner todas las cosas nuevas)
